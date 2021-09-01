@@ -1,0 +1,74 @@
+*{ 
+	margin: 0;
+	padding: 0;
+}
+section{
+	height: 500px;
+	width: 100%;
+	font-size: 25px;
+}
+section p {
+	margin-top: 50px;
+}
+.instruct{
+	margin: 25px;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+header {
+	height: 100px;
+	width: 100%;
+	background-color: rgb(99, 00, 00);
+	color: white;
+	text-align: center;
+}
+footer {
+	height: 100px;
+	width: 100%;
+	background-color: rgb(99, 00, 00);
+	color: white;
+	text-align: center;
+}
+header p{
+	text-align: left;
+	margin: 25px;
+}
+header h1 {
+	padding: auto;
+	font-size: 40px;
+	padding-top: 15px;
+}
+.div-header{
+	text-align: center;
+	color: red;
+	font-size: 25px;
+	font-family: sans-serif;
+	clear: left;
+}
+section button {
+	list-style-type: none;
+	text-decoration: none;
+	color: black;
+	font-size: 15px;
+	align-items: right;
+	margin-right: 100px;
+}
+.div-Container{
+	margin-left: 100px;
+	clear: left;
+	margin-top: 25px;
+}
+input{
+	margin-top: 25px;
+}
+.Prev-page{
+	margin-left: 100px;
+	margin-top: 50px;
+}
+section h2{
+	float: left;
+	font-size: 25px;
+	color: blue;
+	padding-left: 50px;
+	text-align: center;
+}
